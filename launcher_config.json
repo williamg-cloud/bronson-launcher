@@ -1,6 +1,6 @@
 {
-  "clientVersion": "13.40.001",
-  "launcherVersion": "1.4",
+  "clientVersion": "13.40.002",
+  "launcherVersion": "1.5",
   "replaceFolders": true,
   "replaceFolderName": [
     { "name": "assets" },
