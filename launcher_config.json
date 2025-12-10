@@ -1,5 +1,5 @@
 {
-	"clientVersion": "13.30.000",
+	"clientVersion": "13.38.000",
 	"launcherVersion": "1.0",
 	"replaceFolders": true,
 	"replaceFolderName": [
@@ -9,6 +9,6 @@
 		{ "name": "bin" }
 	],
 	"clientFolder": "",
-	"newClientUrl" : "https://github.com/williamg-cloud/bronson-launcher/releases/download/1.0.0/cliente.zip",
-	"clientExecutable": "client.exe"
+	"newClientUrl": "https://github.com/williamg-cloud/bronson-launcher/releases/download/1.0.0/cliente.zip?raw=1",
+	"clientExecutable": "bin/client.exe"
 }
