@@ -9,5 +9,5 @@
 	],
 	"clientFolder": "",
 	"newClientUrl": "https://github.com/williamg-cloud/bronson-launcher/releases/download/v1.0.0/client-bronsonot.zip",
-	"clientExecutable": "client.exe"
+	"clientExecutable": "bin/client.exe"
 }
