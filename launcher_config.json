@@ -8,7 +8,7 @@
 		{ "name": "things" },
 		{ "name": "bin" }
 	],
-	"clientFolder": "",
+	"clientFolder": "Bronson OT",
 	"newClientUrl": "https://github.com/williamg-cloud/bronson-launcher/releases/download/1.0.0/cliente.zip?raw=1",
 	"clientExecutable": "bin/client.exe"
 }
